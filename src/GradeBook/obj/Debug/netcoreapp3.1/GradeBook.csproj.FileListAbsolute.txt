@@ -1,0 +1,13 @@
+/home/david/Workspace/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/home/david/Workspace/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/home/david/Workspace/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/home/david/Workspace/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/home/david/Workspace/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/david/Workspace/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/home/david/Workspace/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache

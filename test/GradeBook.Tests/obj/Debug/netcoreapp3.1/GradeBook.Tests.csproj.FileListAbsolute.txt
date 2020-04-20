@@ -94,3 +94,6 @@
 /home/david/Workspace/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.dll
 /home/david/Workspace/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.pdb
 /home/david/Workspace/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.genruntimeconfig.cache
+/home/david/Workspace/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook
+/home/david/Workspace/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/david/Workspace/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.pdb

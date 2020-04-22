@@ -2,9 +2,36 @@ using System;
 using Xunit;
 
 namespace GradeBook.Tests
-{
+{   
+    public delegate string WriteLogDelegate(string logMassage);
+
     public class TypeTests
-    {
+    {   
+        int count =0; 
+
+        [Fact]
+        public void WriteLogDelegate()
+        {
+            WriteLogDelegate log = ReturnMessage;
+            log += ReturnMessage;
+            log += incrementCount;
+
+
+            var result = log("Hello!");
+            Assert.Equal(3, count);
+        }
+
+        string incrementCount(string message)
+        {
+            count++;
+            return message.ToLower();
+        }
+
+        string ReturnMessage(string message)
+        {
+            count++;
+            return message;
+        }
 
         [Fact]
         public void StringBehaveLikeValueTypes()
